@@ -1,0 +1,26 @@
+<resources>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="button_car">Car</string>
+    <string name="button_commute">Commute</string>
+    <string name="button_grab">Grab</string>
+    <string name="button_uber">Uber</string>
+    <string name="button_alarm">Alarm</string>
+    <string name="button_alarm_on">Alarm On</string>
+    <string name="button_alarm_off">Alarm Off</string>
+    <string name="button_emergency">Emergency</string>
+    <string name="life2">Workaholic</string>
+    <string name="app_name">Workaholic</string>
+</resources>
